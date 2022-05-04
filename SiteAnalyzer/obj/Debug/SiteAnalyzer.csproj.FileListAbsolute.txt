@@ -1,0 +1,10 @@
+c:\dev\SiteAnalyzer\SiteAnalyzer\bin\Debug\SiteAnalyzer.exe.config
+c:\dev\SiteAnalyzer\SiteAnalyzer\bin\Debug\SiteAnalyzer.exe
+c:\dev\SiteAnalyzer\SiteAnalyzer\bin\Debug\SiteAnalyzer.pdb
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.csprojAssemblyReference.cache
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.SiteAnalyzer.resources
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.Properties.Resources.resources
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.csproj.GenerateResource.cache
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.csproj.CoreCompileInputs.cache
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.exe
+c:\dev\SiteAnalyzer\SiteAnalyzer\obj\Debug\SiteAnalyzer.pdb
